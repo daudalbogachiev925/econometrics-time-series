@@ -1,0 +1,2 @@
+# econometrics-time-series
+Эконометрика
